@@ -247,19 +247,19 @@
         }
         #bar-graph-container {
             display: none;
-            position: absolute;
+            position: fixed;
             top: 60px;
             left: 5%;
             right: 5%;
             bottom: 80px;
             width: 100%;
-            overflow: hidden; /* Hide container overflow */
+            overflow: hidden;
         }
 
-        /* Add smooth scrolling for the graph container */
         #bar-graph-container > div {
             scrollbar-width: thin;
             scrollbar-color: rgba(255, 255, 255, 0.3) transparent;
+            -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
         }
 
         #bar-graph-container > div::-webkit-scrollbar {
@@ -457,6 +457,9 @@
                 container.appendChild(scrollIndicator);
             }
         }
+
+
+
         const colorPalette = [
             '#FFD700', // Gold
             '#F0E68C', // Khaki
