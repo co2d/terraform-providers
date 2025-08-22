@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-22",
+  "date": "1970-01-01",
   "windows": {
     "last_24h": {
       "available": false,
@@ -27,9 +27,6 @@
     }
   },
   "notes": [
-    "Insufficient history to compute last_24h.",
-    "Insufficient history to compute last_7d.",
-    "Insufficient history to compute last_30d.",
-    "Insufficient history to compute last_365d."
+    "No data yet. Run workflow."
   ]
 }
