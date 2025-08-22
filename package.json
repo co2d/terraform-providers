@@ -1,0 +1,10 @@
+{
+  "name": "terraform-providers",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/fetch_and_build.js"
+  }
+}
