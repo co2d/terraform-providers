@@ -1,11 +1,1214 @@
 {
-  "date": "2025-08-22",
+  "date": "2025-08-25",
   "windows": {
     "last_24h": {
-      "available": false,
+      "available": true,
+      "refDate": "2025-08-22",
       "top": [],
-      "moversUp": [],
-      "moversDown": []
+      "moversUp": [
+        {
+          "fullName": "Ferlab-Ste-Justine/patroni",
+          "before": 5316,
+          "now": 4232,
+          "change": 1084
+        },
+        {
+          "fullName": "coreweave/coreweave",
+          "before": 3851,
+          "now": 3201,
+          "change": 650
+        },
+        {
+          "fullName": "mkdev-me/openai",
+          "before": 2913,
+          "now": 2306,
+          "change": 607
+        },
+        {
+          "fullName": "valiparsa/azuread",
+          "before": 2630,
+          "now": 2286,
+          "change": 344
+        },
+        {
+          "fullName": "microsoft/msgraph",
+          "before": 4188,
+          "now": 3920,
+          "change": 268
+        },
+        {
+          "fullName": "gravitee-io/apim",
+          "before": 4695,
+          "now": 4452,
+          "change": 243
+        },
+        {
+          "fullName": "RiskIdent/mongodb-driver",
+          "before": 1720,
+          "now": 1533,
+          "change": 187
+        },
+        {
+          "fullName": "scastria/postgresql",
+          "before": 5121,
+          "now": 4935,
+          "change": 186
+        },
+        {
+          "fullName": "ScottW514/datapower",
+          "before": 3987,
+          "now": 3822,
+          "change": 165
+        },
+        {
+          "fullName": "cherryservers/cherryservers",
+          "before": 3524,
+          "now": 3396,
+          "change": 128
+        },
+        {
+          "fullName": "IBM/turbonomic",
+          "before": 3529,
+          "now": 3404,
+          "change": 125
+        },
+        {
+          "fullName": "sidpremkumar/signoz",
+          "before": 3499,
+          "now": 3401,
+          "change": 98
+        },
+        {
+          "fullName": "devops-wiz/jira",
+          "before": 5114,
+          "now": 5026,
+          "change": 88
+        },
+        {
+          "fullName": "upmaru/tama",
+          "before": 4059,
+          "now": 3975,
+          "change": 84
+        },
+        {
+          "fullName": "agilize/jumpcloud",
+          "before": 4106,
+          "now": 4031,
+          "change": 75
+        },
+        {
+          "fullName": "nirvana-labs/nirvana",
+          "before": 3531,
+          "now": 3466,
+          "change": 65
+        },
+        {
+          "fullName": "lugolven/setup",
+          "before": 4278,
+          "now": 4214,
+          "change": 64
+        },
+        {
+          "fullName": "qvest-stream/makalu",
+          "before": 2753,
+          "now": 2692,
+          "change": 61
+        },
+        {
+          "fullName": "oodle-ai/oodle",
+          "before": 4383,
+          "now": 4323,
+          "change": 60
+        },
+        {
+          "fullName": "darshaner/freebox",
+          "before": 5362,
+          "now": 5302,
+          "change": 60
+        },
+        {
+          "fullName": "cyril-s/libvirt",
+          "before": 5378,
+          "now": 5318,
+          "change": 60
+        },
+        {
+          "fullName": "hirosi1900day/devin",
+          "before": 2950,
+          "now": 2891,
+          "change": 59
+        },
+        {
+          "fullName": "ViMaSter/allinkl",
+          "before": 4415,
+          "now": 4359,
+          "change": 56
+        },
+        {
+          "fullName": "austinvalle/bufo",
+          "before": 4885,
+          "now": 4829,
+          "change": 56
+        },
+        {
+          "fullName": "halter/kubepatch",
+          "before": 3753,
+          "now": 3698,
+          "change": 55
+        },
+        {
+          "fullName": "ekristen/azurex",
+          "before": 3085,
+          "now": 3031,
+          "change": 54
+        },
+        {
+          "fullName": "uptimerobot/uptimerobot",
+          "before": 3804,
+          "now": 3750,
+          "change": 54
+        },
+        {
+          "fullName": "illumio/illumio-cloudsecure",
+          "before": 2603,
+          "now": 2550,
+          "change": 53
+        },
+        {
+          "fullName": "uptime-monitor-io/uptime",
+          "before": 4803,
+          "now": 4750,
+          "change": 53
+        },
+        {
+          "fullName": "Flex-O-SAS/growthbook",
+          "before": 3187,
+          "now": 3135,
+          "change": 52
+        },
+        {
+          "fullName": "disruptive-technologies/dt",
+          "before": 4960,
+          "now": 4908,
+          "change": 52
+        },
+        {
+          "fullName": "nrp-nautilus/kubevirt",
+          "before": 5398,
+          "now": 5348,
+          "change": 50
+        },
+        {
+          "fullName": "keboola/keboola-management",
+          "before": 3708,
+          "now": 3659,
+          "change": 49
+        },
+        {
+          "fullName": "seqeralabs/seqera",
+          "before": 5204,
+          "now": 5159,
+          "change": 45
+        },
+        {
+          "fullName": "scastria/mysql",
+          "before": 4280,
+          "now": 4237,
+          "change": 43
+        },
+        {
+          "fullName": "SolaceProducts/solacecloud",
+          "before": 5054,
+          "now": 5013,
+          "change": 41
+        },
+        {
+          "fullName": "pubg/gsm",
+          "before": 5308,
+          "now": 5267,
+          "change": 41
+        },
+        {
+          "fullName": "terrakube-io/terrakube",
+          "before": 4786,
+          "now": 4746,
+          "change": 40
+        },
+        {
+          "fullName": "zesty-co/zesty",
+          "before": 5068,
+          "now": 5028,
+          "change": 40
+        },
+        {
+          "fullName": "netbirdio/netbird",
+          "before": 3274,
+          "now": 3235,
+          "change": 39
+        },
+        {
+          "fullName": "get-select/select",
+          "before": 4940,
+          "now": 4901,
+          "change": 39
+        },
+        {
+          "fullName": "dlahmad/adoservicehooks",
+          "before": 2383,
+          "now": 2345,
+          "change": 38
+        },
+        {
+          "fullName": "vbanthia/litellm",
+          "before": 3675,
+          "now": 3637,
+          "change": 38
+        },
+        {
+          "fullName": "isometry/github",
+          "before": 5039,
+          "now": 5001,
+          "change": 38
+        },
+        {
+          "fullName": "scalepad/litellm",
+          "before": 4532,
+          "now": 4495,
+          "change": 37
+        },
+        {
+          "fullName": "cysp/censusworkspace",
+          "before": 5384,
+          "now": 5347,
+          "change": 37
+        },
+        {
+          "fullName": "cultureamp/schemaregistry",
+          "before": 3853,
+          "now": 3817,
+          "change": 36
+        },
+        {
+          "fullName": "dash0hq/dash0",
+          "before": 4585,
+          "now": 4549,
+          "change": 36
+        },
+        {
+          "fullName": "andrei-funaru/vault",
+          "before": 2170,
+          "now": 2135,
+          "change": 35
+        },
+        {
+          "fullName": "oscarhermoso/binarylane",
+          "before": 1526,
+          "now": 1492,
+          "change": 34
+        },
+        {
+          "fullName": "casale-digeng/rabbitmq",
+          "before": 5241,
+          "now": 5207,
+          "change": 34
+        },
+        {
+          "fullName": "arslanbekov/sendgrid",
+          "before": 3416,
+          "now": 3383,
+          "change": 33
+        },
+        {
+          "fullName": "verge-io/vergeio",
+          "before": 3520,
+          "now": 3487,
+          "change": 33
+        },
+        {
+          "fullName": "schrieksoft/snapcd",
+          "before": 3899,
+          "now": 3866,
+          "change": 33
+        },
+        {
+          "fullName": "opa-oz/cloud-config",
+          "before": 5056,
+          "now": 5023,
+          "change": 33
+        },
+        {
+          "fullName": "traceforce/traceforce",
+          "before": 5007,
+          "now": 4975,
+          "change": 32
+        },
+        {
+          "fullName": "JdnDevops/azdo",
+          "before": 2409,
+          "now": 2378,
+          "change": 31
+        },
+        {
+          "fullName": "pyama86/powerdns",
+          "before": 2703,
+          "now": 2672,
+          "change": 31
+        },
+        {
+          "fullName": "kota65535/shell",
+          "before": 3859,
+          "now": 3829,
+          "change": 30
+        },
+        {
+          "fullName": "rosmo/gcrane",
+          "before": 3608,
+          "now": 3579,
+          "change": 29
+        },
+        {
+          "fullName": "wangsu-api/wangsu",
+          "before": 3493,
+          "now": 3465,
+          "change": 28
+        },
+        {
+          "fullName": "bbetter173/grafana",
+          "before": 4352,
+          "now": 4324,
+          "change": 28
+        },
+        {
+          "fullName": "cdn77/cdn77",
+          "before": 2397,
+          "now": 2370,
+          "change": 27
+        },
+        {
+          "fullName": "cloudandthings/schemavalidator",
+          "before": 1301,
+          "now": 1275,
+          "change": 26
+        },
+        {
+          "fullName": "Contio-AI/nango",
+          "before": 4184,
+          "now": 4158,
+          "change": 26
+        },
+        {
+          "fullName": "infrapilot/infrapilot",
+          "before": 4921,
+          "now": 4895,
+          "change": 26
+        },
+        {
+          "fullName": "atlassian/atlassian-operations",
+          "before": 1701,
+          "now": 1676,
+          "change": 25
+        },
+        {
+          "fullName": "netlify/netlify",
+          "before": 2161,
+          "now": 2136,
+          "change": 25
+        },
+        {
+          "fullName": "i3dnet/i3dnet",
+          "before": 2249,
+          "now": 2224,
+          "change": 25
+        },
+        {
+          "fullName": "Chili-Piper/postgresql",
+          "before": 2329,
+          "now": 2304,
+          "change": 25
+        },
+        {
+          "fullName": "rlmartin/postgresql",
+          "before": 4501,
+          "now": 4476,
+          "change": 25
+        },
+        {
+          "fullName": "gfnogueira/slack",
+          "before": 4530,
+          "now": 4505,
+          "change": 25
+        },
+        {
+          "fullName": "gnuletik/opensearch",
+          "before": 2977,
+          "now": 2953,
+          "change": 24
+        },
+        {
+          "fullName": "barnes-c/roger",
+          "before": 4324,
+          "now": 4300,
+          "change": 24
+        },
+        {
+          "fullName": "BE-Network/verity",
+          "before": 4551,
+          "now": 4528,
+          "change": 23
+        },
+        {
+          "fullName": "nexaa-cloud/nexaa",
+          "before": 4995,
+          "now": 4972,
+          "change": 23
+        },
+        {
+          "fullName": "hashicorp/tfmigrate",
+          "before": 1580,
+          "now": 1558,
+          "change": 22
+        },
+        {
+          "fullName": "daniepett/thoughtspot",
+          "before": 3900,
+          "now": 3878,
+          "change": 22
+        },
+        {
+          "fullName": "PaloAltoNetworks/prismasase-vmware",
+          "before": 4911,
+          "now": 4889,
+          "change": 22
+        },
+        {
+          "fullName": "sparkpost-terraform/sparkpost",
+          "before": 4913,
+          "now": 4891,
+          "change": 22
+        },
+        {
+          "fullName": "thomasfinstad/vyos-rolling",
+          "before": 2119,
+          "now": 2098,
+          "change": 21
+        },
+        {
+          "fullName": "svix/svix",
+          "before": 2196,
+          "now": 2175,
+          "change": 21
+        },
+        {
+          "fullName": "warp-tech/warpgate",
+          "before": 4177,
+          "now": 4156,
+          "change": 21
+        },
+        {
+          "fullName": "vmware/vcfa",
+          "before": 4915,
+          "now": 4894,
+          "change": 21
+        },
+        {
+          "fullName": "Essent/slack",
+          "before": 1733,
+          "now": 1713,
+          "change": 20
+        },
+        {
+          "fullName": "Infomaniak/infomaniak",
+          "before": 4153,
+          "now": 4133,
+          "change": 20
+        },
+        {
+          "fullName": "xorps/tfsync",
+          "before": 4403,
+          "now": 4383,
+          "change": 20
+        },
+        {
+          "fullName": "IBM/ode",
+          "before": 4730,
+          "now": 4710,
+          "change": 20
+        },
+        {
+          "fullName": "wx-one/wx-one",
+          "before": 4787,
+          "now": 4767,
+          "change": 20
+        },
+        {
+          "fullName": "soonchee23/st-alicloud",
+          "before": 5137,
+          "now": 5117,
+          "change": 20
+        },
+        {
+          "fullName": "CrowdStrike/crowdstrike",
+          "before": 1115,
+          "now": 1096,
+          "change": 19
+        },
+        {
+          "fullName": "jfrog/mission-control",
+          "before": 1688,
+          "now": 1669,
+          "change": 19
+        },
+        {
+          "fullName": "coopnorge/opengpg",
+          "before": 1991,
+          "now": 1972,
+          "change": 19
+        },
+        {
+          "fullName": "Poulpatine/pgp",
+          "before": 3304,
+          "now": 3285,
+          "change": 19
+        },
+        {
+          "fullName": "LouisBesse/stripe-webhooks",
+          "before": 4199,
+          "now": 4180,
+          "change": 19
+        },
+        {
+          "fullName": "saviynt/saviynt",
+          "before": 4293,
+          "now": 4274,
+          "change": 19
+        },
+        {
+          "fullName": "svalabs/forgejo",
+          "before": 4320,
+          "now": 4301,
+          "change": 19
+        },
+        {
+          "fullName": "SamsungSDSCloud/samsungcloudplatformv2",
+          "before": 4912,
+          "now": 4893,
+          "change": 19
+        },
+        {
+          "fullName": "pwhsoft/reuse",
+          "before": 4944,
+          "now": 4925,
+          "change": 19
+        },
+        {
+          "fullName": "zilliztech/zillizcloud",
+          "before": 2357,
+          "now": 2339,
+          "change": 18
+        }
+      ],
+      "moversDown": [
+        {
+          "fullName": "dorzeidman/conductor",
+          "before": 4899,
+          "now": 4911,
+          "change": -12
+        },
+        {
+          "fullName": "Juanito98/omegaup",
+          "before": 4900,
+          "now": 4912,
+          "change": -12
+        },
+        {
+          "fullName": "ghostsecurity/ghost",
+          "before": 5038,
+          "now": 5050,
+          "change": -12
+        },
+        {
+          "fullName": "jkteknologies/opswat",
+          "before": 5046,
+          "now": 5058,
+          "change": -12
+        },
+        {
+          "fullName": "codewolf-dev/adverity",
+          "before": 5052,
+          "now": 5064,
+          "change": -12
+        },
+        {
+          "fullName": "kislerdm/neo4j",
+          "before": 5053,
+          "now": 5065,
+          "change": -12
+        },
+        {
+          "fullName": "bcnmy/gcp-ipam-autopilot",
+          "before": 4896,
+          "now": 4907,
+          "change": -11
+        },
+        {
+          "fullName": "comrumino/my-rce",
+          "before": 4898,
+          "now": 4909,
+          "change": -11
+        },
+        {
+          "fullName": "CygnaLabsOpenSource/ipcontrol",
+          "before": 5037,
+          "now": 5048,
+          "change": -11
+        },
+        {
+          "fullName": "zklinger/auth0",
+          "before": 5041,
+          "now": 5052,
+          "change": -11
+        },
+        {
+          "fullName": "TravisS25/fortios",
+          "before": 5042,
+          "now": 5053,
+          "change": -11
+        },
+        {
+          "fullName": "masthead-data/masthead",
+          "before": 5044,
+          "now": 5055,
+          "change": -11
+        },
+        {
+          "fullName": "Wa4h1h/archiver",
+          "before": 5048,
+          "now": 5059,
+          "change": -11
+        },
+        {
+          "fullName": "denvrdata/denvr",
+          "before": 5049,
+          "now": 5060,
+          "change": -11
+        },
+        {
+          "fullName": "DaveTCode/pbs",
+          "before": 5050,
+          "now": 5061,
+          "change": -11
+        },
+        {
+          "fullName": "zerosuxx/postgresql",
+          "before": 5051,
+          "now": 5062,
+          "change": -11
+        },
+        {
+          "fullName": "schrieksoft/azrandom",
+          "before": 4888,
+          "now": 4898,
+          "change": -10
+        },
+        {
+          "fullName": "cmc-partner/cmccloudv2",
+          "before": 4889,
+          "now": 4899,
+          "change": -10
+        },
+        {
+          "fullName": "jokelyo/librenms",
+          "before": 4890,
+          "now": 4900,
+          "change": -10
+        },
+        {
+          "fullName": "sschu/keycloak",
+          "before": 4893,
+          "now": 4903,
+          "change": -10
+        },
+        {
+          "fullName": "Cypherpunk-Labs/mongodocs",
+          "before": 4894,
+          "now": 4904,
+          "change": -10
+        },
+        {
+          "fullName": "KatHaruto/opensearch",
+          "before": 4895,
+          "now": 4905,
+          "change": -10
+        },
+        {
+          "fullName": "pubg/airdrop",
+          "before": 4993,
+          "now": 5003,
+          "change": -10
+        },
+        {
+          "fullName": "cirola2000/langfuse",
+          "before": 4994,
+          "now": 5004,
+          "change": -10
+        },
+        {
+          "fullName": "cloudback/cloudback",
+          "before": 5019,
+          "now": 5029,
+          "change": -10
+        },
+        {
+          "fullName": "arctir/flightdeck",
+          "before": 5035,
+          "now": 5045,
+          "change": -10
+        },
+        {
+          "fullName": "jiw-mh/archive",
+          "before": 5036,
+          "now": 5046,
+          "change": -10
+        },
+        {
+          "fullName": "Bald1nh0/passbolt",
+          "before": 5057,
+          "now": 5067,
+          "change": -10
+        },
+        {
+          "fullName": "acsbe/zuora",
+          "before": 5058,
+          "now": 5068,
+          "change": -10
+        },
+        {
+          "fullName": "jverce/aws",
+          "before": 3483,
+          "now": 3492,
+          "change": -9
+        },
+        {
+          "fullName": "spaceshuttl/discord",
+          "before": 3484,
+          "now": 3493,
+          "change": -9
+        },
+        {
+          "fullName": "meterup/pingdom",
+          "before": 3491,
+          "now": 3500,
+          "change": -9
+        },
+        {
+          "fullName": "grixan482/grixan482",
+          "before": 4370,
+          "now": 4379,
+          "change": -9
+        },
+        {
+          "fullName": "nicsnet/nimbus",
+          "before": 4905,
+          "now": 4914,
+          "change": -9
+        },
+        {
+          "fullName": "mm-aranda/mirage",
+          "before": 4928,
+          "now": 4937,
+          "change": -9
+        },
+        {
+          "fullName": "ctfer-io/ctfdcm",
+          "before": 4930,
+          "now": 4939,
+          "change": -9
+        },
+        {
+          "fullName": "komminarlabs/mageai",
+          "before": 4931,
+          "now": 4940,
+          "change": -9
+        },
+        {
+          "fullName": "next-gen-infrastructure/pritunl",
+          "before": 4937,
+          "now": 4946,
+          "change": -9
+        },
+        {
+          "fullName": "joeldsouza28/reddit",
+          "before": 4938,
+          "now": 4947,
+          "change": -9
+        },
+        {
+          "fullName": "HautechAI/hautechai",
+          "before": 4939,
+          "now": 4948,
+          "change": -9
+        },
+        {
+          "fullName": "brezam/azurermext",
+          "before": 5021,
+          "now": 5030,
+          "change": -9
+        },
+        {
+          "fullName": "iits-consulting/otc-marketplace",
+          "before": 5022,
+          "now": 5031,
+          "change": -9
+        },
+        {
+          "fullName": "winebarrel/googlesheets",
+          "before": 5032,
+          "now": 5041,
+          "change": -9
+        },
+        {
+          "fullName": "elsoa-invitech/linux",
+          "before": 5034,
+          "now": 5043,
+          "change": -9
+        },
+        {
+          "fullName": "aganisatria/lark",
+          "before": 5060,
+          "now": 5069,
+          "change": -9
+        },
+        {
+          "fullName": "calxus/node-lambda-packager",
+          "before": 5061,
+          "now": 5070,
+          "change": -9
+        },
+        {
+          "fullName": "Mikej81/rest",
+          "before": 5062,
+          "now": 5071,
+          "change": -9
+        },
+        {
+          "fullName": "tfbrew/awx",
+          "before": 5249,
+          "now": 5258,
+          "change": -9
+        },
+        {
+          "fullName": "datafy-io/mongodb",
+          "before": 5250,
+          "now": 5259,
+          "change": -9
+        },
+        {
+          "fullName": "danielbooth-cloud/k3s",
+          "before": 5302,
+          "now": 5311,
+          "change": -9
+        },
+        {
+          "fullName": "manabie-com/jira",
+          "before": 1678,
+          "now": 1686,
+          "change": -8
+        },
+        {
+          "fullName": "funny-data/flink-appmanager",
+          "before": 2379,
+          "now": 2387,
+          "change": -8
+        },
+        {
+          "fullName": "relay-sandbox/auth0",
+          "before": 3466,
+          "now": 3474,
+          "change": -8
+        },
+        {
+          "fullName": "xonvanetta/truenas",
+          "before": 3467,
+          "now": 3475,
+          "change": -8
+        },
+        {
+          "fullName": "sproutfi/kafka",
+          "before": 3480,
+          "now": 3488,
+          "change": -8
+        },
+        {
+          "fullName": "matokovacik/redshift",
+          "before": 3481,
+          "now": 3489,
+          "change": -8
+        },
+        {
+          "fullName": "mecha-ci/drone",
+          "before": 3482,
+          "now": 3490,
+          "change": -8
+        },
+        {
+          "fullName": "sharekey/exoscale",
+          "before": 3486,
+          "now": 3494,
+          "change": -8
+        },
+        {
+          "fullName": "abergmeier/hash",
+          "before": 3487,
+          "now": 3495,
+          "change": -8
+        },
+        {
+          "fullName": "WalletConnect/libp2p",
+          "before": 3488,
+          "now": 3496,
+          "change": -8
+        },
+        {
+          "fullName": "phillebaba/flux",
+          "before": 3490,
+          "now": 3498,
+          "change": -8
+        },
+        {
+          "fullName": "core928347562/okzmcwyqfd",
+          "before": 3513,
+          "now": 3521,
+          "change": -8
+        },
+        {
+          "fullName": "spencerdodd/proxmox",
+          "before": 3514,
+          "now": 3522,
+          "change": -8
+        },
+        {
+          "fullName": "76creates/oryketo",
+          "before": 3833,
+          "now": 3841,
+          "change": -8
+        },
+        {
+          "fullName": "GitbookIO/gitbook",
+          "before": 3834,
+          "now": 3842,
+          "change": -8
+        },
+        {
+          "fullName": "fracticated/forwardnetworks",
+          "before": 4367,
+          "now": 4375,
+          "change": -8
+        },
+        {
+          "fullName": "cloud-destroyer/gitlab",
+          "before": 4368,
+          "now": 4376,
+          "change": -8
+        },
+        {
+          "fullName": "nint8835/csp",
+          "before": 4372,
+          "now": 4380,
+          "change": -8
+        },
+        {
+          "fullName": "magenta-aps/googleworkspace",
+          "before": 4524,
+          "now": 4532,
+          "change": -8
+        },
+        {
+          "fullName": "thatInfrastructureGuy/kubernetes",
+          "before": 4727,
+          "now": 4735,
+          "change": -8
+        },
+        {
+          "fullName": "axatol/kinde",
+          "before": 4907,
+          "now": 4915,
+          "change": -8
+        },
+        {
+          "fullName": "unknownconstant/linuxhost",
+          "before": 4908,
+          "now": 4916,
+          "change": -8
+        },
+        {
+          "fullName": "TechXploreLabs/opsy",
+          "before": 4909,
+          "now": 4917,
+          "change": -8
+        },
+        {
+          "fullName": "hasan2001jk/regru",
+          "before": 4910,
+          "now": 4918,
+          "change": -8
+        },
+        {
+          "fullName": "pgrigo01/cloudlab",
+          "before": 4920,
+          "now": 4928,
+          "change": -8
+        },
+        {
+          "fullName": "Jake-Barrow/mssql",
+          "before": 4924,
+          "now": 4932,
+          "change": -8
+        },
+        {
+          "fullName": "diogenxs/netbox",
+          "before": 4936,
+          "now": 4944,
+          "change": -8
+        },
+        {
+          "fullName": "kassett/balena",
+          "before": 4990,
+          "now": 4998,
+          "change": -8
+        },
+        {
+          "fullName": "marmotdata/marmot",
+          "before": 4991,
+          "now": 4999,
+          "change": -8
+        },
+        {
+          "fullName": "FedotCompot/redfish",
+          "before": 4992,
+          "now": 5000,
+          "change": -8
+        },
+        {
+          "fullName": "markti/minecraft",
+          "before": 5013,
+          "now": 5021,
+          "change": -8
+        },
+        {
+          "fullName": "kibblator/ory",
+          "before": 5014,
+          "now": 5022,
+          "change": -8
+        },
+        {
+          "fullName": "bjarkehs/corax",
+          "before": 5016,
+          "now": 5024,
+          "change": -8
+        },
+        {
+          "fullName": "mechanize-dk/fmc",
+          "before": 5024,
+          "now": 5032,
+          "change": -8
+        },
+        {
+          "fullName": "TestOrgForMovingB/eventstorecloud",
+          "before": 5030,
+          "now": 5038,
+          "change": -8
+        },
+        {
+          "fullName": "manishjindal/hashicups",
+          "before": 5031,
+          "now": 5039,
+          "change": -8
+        },
+        {
+          "fullName": "dduede/archive",
+          "before": 5180,
+          "now": 5188,
+          "change": -8
+        },
+        {
+          "fullName": "b-social/camunda",
+          "before": 1675,
+          "now": 1682,
+          "change": -7
+        },
+        {
+          "fullName": "monit24/monit24",
+          "before": 2308,
+          "now": 2315,
+          "change": -7
+        },
+        {
+          "fullName": "schizofreny/macaddress",
+          "before": 2313,
+          "now": 2320,
+          "change": -7
+        },
+        {
+          "fullName": "ruokei/acme",
+          "before": 2314,
+          "now": 2321,
+          "change": -7
+        },
+        {
+          "fullName": "jdamata/awsconnect",
+          "before": 2316,
+          "now": 2323,
+          "change": -7
+        },
+        {
+          "fullName": "scordonnier/azuredevops",
+          "before": 2377,
+          "now": 2384,
+          "change": -7
+        },
+        {
+          "fullName": "hervekhg/kafka-connect",
+          "before": 2378,
+          "now": 2385,
+          "change": -7
+        },
+        {
+          "fullName": "Citeo/azurermagw",
+          "before": 2381,
+          "now": 2388,
+          "change": -7
+        },
+        {
+          "fullName": "mohamed-gara/npm",
+          "before": 2382,
+          "now": 2389,
+          "change": -7
+        },
+        {
+          "fullName": "quantcdn/quant",
+          "before": 2548,
+          "now": 2555,
+          "change": -7
+        },
+        {
+          "fullName": "rjmateus/libvirt",
+          "before": 2551,
+          "now": 2558,
+          "change": -7
+        },
+        {
+          "fullName": "invidian/flexkube",
+          "before": 2552,
+          "now": 2559,
+          "change": -7
+        },
+        {
+          "fullName": "BlackrockM/gsuite",
+          "before": 2553,
+          "now": 2560,
+          "change": -7
+        }
+      ]
     },
     "last_7d": {
       "available": false,
@@ -27,7 +1230,6 @@
     }
   },
   "notes": [
-    "Insufficient history to compute last_24h.",
     "Insufficient history to compute last_7d.",
     "Insufficient history to compute last_30d.",
     "Insufficient history to compute last_365d."
