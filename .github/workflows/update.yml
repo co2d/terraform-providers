@@ -6,7 +6,9 @@ on:
         description: "Optional note for this run"
         default: ""
         required: false
-
+  schedule:
+    # GitHub cron is UTC. 05:01 UTC == 00:01 EST.
+    - cron: '1 5 * * *'
 permissions:
   contents: write
 
